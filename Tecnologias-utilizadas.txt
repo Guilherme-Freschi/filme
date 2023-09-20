@@ -1,0 +1,17 @@
+body-parser
+Utilizado para ler dados HTTP POST.
+Ele é um pedaço de middleware express que lê a entrada de um formulário e o armazena como um js acessível por req.body.
+
+EJS
+Linguagem de modelagem que permite a renderização de HTML com js simples.
+
+EXPRESS
+Framework utilizado no back-end 
+
+MYSQL2
+Utilizado para criação e manipulação de banco de dados
+
+Sequelize
+Permite o CRUD no DB utilizando métodos JS.
+
+
